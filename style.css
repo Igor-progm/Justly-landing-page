@@ -10,6 +10,10 @@
     font-family: 'Playfair Display', sans-serif;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 header{
     position: fixed;
     top: 0;
